@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837254839267",
+    "firebase_url": "https://uphaar-71264-default-rtdb.firebaseio.com",
+    "project_id": "uphaar-71264",
+    "storage_bucket": "uphaar-71264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837254839267:android:7b34a31b2478160704fed6",
+        "android_client_info": {
+          "package_name": "com.example.uphaar_v12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837254839267-1vmjh3bkbl8i898r1ctrorne3jra7evb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uphaar_v12",
+            "certificate_hash": "b85d5bedf4a7dc7ec836430068bdebf00a09d4aa"
+          }
+        },
+        {
+          "client_id": "837254839267-2s6249584ucqk306uss6cbgc5u3mfepr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4YOlcoXsJOpJWHohTst053l0SiQ4Zzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837254839267-2s6249584ucqk306uss6cbgc5u3mfepr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
