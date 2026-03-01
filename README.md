@@ -194,6 +194,3 @@ This project is open-source and available under the **MIT License**.
 Thank you to everyone who contributed ideas and feedback!
 
 ---
-
-
-Just let me know! 🚀
